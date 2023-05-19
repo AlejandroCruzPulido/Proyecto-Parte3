@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias de Aviones Militares</title>
+    <link>https://my-museum-proyects.web.app/rss</link>
+    <description>Noticias actualizadas sobre aviones militares</description>
+    <item>
+      <title>Avión de combate X-1X realiza vuelo de prueba</title>
+      <link>https://my-museum-proyects.web.app/noticias1</link>
+      <description>El avión de combate X-1X realizó con éxito su vuelo de prueba hoy. Este nuevo modelo promete ser una adición formidable a la flota de aviones militares.</description>
+    </item>
+    <item>
+      <title>Nuevos avances en tecnología de furtividad para aviones de combate</title>
+      <link>https://my-museum-proyects.web.app/noticias2</link>
+      <description>Investigadores han logrado desarrollar un nuevo revestimiento furtivo para aviones de combate, lo que podría hacerlos prácticamente invisibles a los radares enemigos.</description>
+    </item>
+    <item>
+      <title>Próximo lanzamiento del avión no tripulado Z-12</title>
+      <link>https://my-museum-proyects.web.app/noticias3</link>
+      <description>La Fuerza Aérea anunció el próximo lanzamiento del avión no tripulado Z-12, diseñado para misiones de reconocimiento y vigilancia en territorio enemigo.</description>
+    </item>
+  </channel>
+</rss>

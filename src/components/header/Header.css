@@ -1,0 +1,36 @@
+.header {
+  background-color: goldenrod;
+  height: 8em;
+  display: flex;
+  align-items: center;
+}
+
+.header > img {
+  width: 7em;
+  height: 7em;
+  margin-left: 2em;
+}
+
+.tittle {
+  margin-left: 2em;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3em;
+  margin-left: auto;
+}
+
+.header-list > li {
+  margin: 0 2em;
+  margin-top: 1.5em;
+}
+
+

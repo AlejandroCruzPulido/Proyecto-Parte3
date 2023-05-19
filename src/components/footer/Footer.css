@@ -1,0 +1,29 @@
+.footer{
+    background-color: goldenrod;
+    margin-top: 4em;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+}
+
+.words{
+    display: flex;
+    justify-content: center;
+}
+
+.privacy{
+    display: flex;
+    justify-content: center;
+}
+
+.duty{
+    display: flex;
+    justify-content: center;
+}
+
+.rss-icon{
+    display: flex;
+    justify-content: center;
+}

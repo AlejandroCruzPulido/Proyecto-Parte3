@@ -1,0 +1,131 @@
+@media (min-width: 600px) {
+    .header-list {
+      justify-content: space-between;
+    }
+
+    .footer {
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 1em 3em;
+      }
+    
+      .words {
+        margin: 0;
+      }
+    
+      .icons {
+        margin: 0;
+      }
+    
+      .duty,
+      .privacy {
+        margin: 0;
+      }
+    
+      .plane-page {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+      }
+      .plane-object {
+        width: 50%;
+      }
+    
+      .pilots-list-item{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 30em;
+    }
+
+    .helicopter-page{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+  }
+  .helicopter-item{
+    width: 50%;
+  }
+  }
+  
+  @media (min-width: 992px) {
+    .header {
+      height: 10em;
+    }
+  
+    .header > img {
+      width: 10em;
+      height: 10em;
+    }
+  
+    .tittle {
+      margin-left: 3em;
+      font-size: 2em;
+    }
+
+    .footer {
+        padding: 1em 5em;
+      }
+    
+      .icons a {
+        font-size: 2.5em;
+      }
+    
+      .duty,
+      .privacy {
+        font-size: 1em;
+      }
+
+      .plane-page {
+        flex-wrap: wrap;
+      }
+      .plane-object {
+        width: 33.33%;
+      }
+    
+      .pilots-list-item{
+        flex-wrap: wrap;
+        width: 20em;
+    }
+
+    .helicopter-page{
+      flex-wrap: wrap;
+  }
+    .helicopter-item{
+      width: 33.33%;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .header-list > li {
+      margin-top: 2em;
+    }
+
+    .footer {
+        padding: 1em 7em;
+      }
+    
+      .icons a {
+        font-size: 3em;
+      }
+    
+      .duty,
+      .privacy {
+        font-size: 1.2em;
+      }
+    
+      .plane-object {
+        width: 25%;
+      }
+
+      .pilots-list-item{
+        width: 15em;
+    }
+
+    .helicopter-item{
+      width: 25%;
+  }
+  }
+  
+  
+  
